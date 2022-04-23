@@ -13,9 +13,9 @@ ocupacional como desarrollador de software.
 ## Experiencia laboral
 - Desarrollador Back-End - Personal Soft
 
-- - Febrero 2022 - Actualmente
+  - Febrero 2022 - Actualmente
 
-- - Desarrollo de aplicaciones usando el lenguage Java con Spring Boot en el back-end y base de
+  - Desarrollo de aplicaciones usando el lenguage Java con Spring Boot en el back-end y base de
 datos NoSQL(Dynamodb)
 
 - Desarrollador Back-End - Progracol
