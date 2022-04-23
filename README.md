@@ -25,6 +25,7 @@ ocupacional como desarrollador de software.
 [![Postgres SQL](https://img.shields.io/badge/PostgresSQL-white?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4285F4)]()
 [![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-white?style=for-the-badge&logo=oracle&logoColor=white&labelColor=FF0000)]()
 </br>
+[![Oracle SQL](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=white&labelColor=blue]()
 
 
 ## Experiencia laboral
