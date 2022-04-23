@@ -10,6 +10,22 @@ Docker, Jira, GIT, conocimiento en metodología de desarrollo ágil Scrum. Compe
 trabajo en equipo, tolerancia a la frustración, servicio al cliente y orientación a los resultados. Interés
 ocupacional como desarrollador de software.
 
+## Experiencia laboral
+- Desarrollador Back-End - Personal Soft
+Febrero 2022 - Actualmente
+Desarrollo de aplicaciones usando el lenguage Java con Spring Boot en el back-end y base de
+datos NoSQL(Dynamodb)
+
+- Desarrollador Back-End - Progracol
+Octubre 2021 - Febrero 2022
+Desarrollo de aplicación Web usando el lenguage Java con Spring Boot en el back-end y base de
+datos SQL(Postgres)
+
+- Ingeniero de Sistemas - Independiente
+Junio 2021 - Septiembre 2021
+Desarrollo de aplicación Web usando el lenguage Java con Spring Boot en el back-end, front-end
+con Angular y base de datos SQL(Oracle)
+
 <!--
 **nestoragredoyanten/nestoragredoyanten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
