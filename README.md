@@ -11,16 +11,19 @@ trabajo en equipo, tolerancia a la frustración, servicio al cliente y orientaci
 ocupacional como desarrollador de software.
 
 ## Skills:
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![Intellij Idea](https://img.shields.io/badge/Intellij%20Idea-white?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=101010)]()
+[![Web Strom](https://img.shields.io/badge/Web%20Storm-white?style=for-the-badge&logo=webstorm&logoColor=white&labelColor=101010)]()
+[![Data Grip](https://img.shields.io/badge/Data%20Grip-white?style=for-the-badge&logo=datagrip&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
 [![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=white&labelColor=FF0000)]()
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-white?style=for-the-badge&logo=spring&logoColor=white&labelColor=47A248)]()
 [![Angular](https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+<!-- [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]() -->
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Postgres SQL](https://img.shields.io/badge/PostgresSQL-white?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4285F4)]()
 [![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-white?style=for-the-badge&logo=oracle&logoColor=white&labelColor=FF0000)]()
