@@ -23,13 +23,13 @@ ocupacional como desarrollador de software.
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-<!-- [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]() -->
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Postgres SQL](https://img.shields.io/badge/PostgresSQL-white?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4285F4)]()
 [![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-white?style=for-the-badge&logo=oracle&logoColor=white&labelColor=FF0000)]()
 </br>
 [![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=white&labelColor=blue)]()
 
+<!-- [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]() -->
 
 ## Experiencia laboral
 - Desarrollador Back-End - Personal Soft
