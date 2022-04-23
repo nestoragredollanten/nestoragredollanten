@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Ingeniero de Sistemas\n
+Ingeniero de Sistemas/n
 Profesional en Ingeniería de sistemas, con experiencia más de un año como desarrollador junior y
 soporte técnico, con experiencia en mantenimiento preventivo de computadores, instalación de
 red de datos cableada e inalámbrica, conocimientos en sistemas operativos Linux, Windows y Mac
