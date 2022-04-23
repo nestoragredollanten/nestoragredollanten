@@ -19,31 +19,39 @@ ocupacional como desarrollador de software.
 datos NoSQL(Dynamodb)
 
 - Desarrollador Back-End - Progracol
-Octubre 2021 - Febrero 2022
-Desarrollo de aplicación Web usando el lenguage Java con Spring Boot en el back-end y base de
+  - Octubre 2021 - Febrero 2022
+  
+  - Desarrollo de aplicación Web usando el lenguage Java con Spring Boot en el back-end y base de
 datos SQL(Postgres)
 
 - Ingeniero de Sistemas - Independiente
-Junio 2021 - Septiembre 2021
-Desarrollo de aplicación Web usando el lenguage Java con Spring Boot en el back-end, front-end
+
+  - Junio 2021 - Septiembre 2021
+ 
+  - Desarrollo de aplicación Web usando el lenguage Java con Spring Boot en el back-end, front-end
 con Angular y base de datos SQL(Oracle)
 
 - Ingeniero de Sistemas - Ingenieria Dapa SAS
-Mayo 2020 - Mayo 2021
-Implementación y administración de sitio web en WordPress. Administración de red local. Soporte
+  - Mayo 2020 - Mayo 2021
+  
+  - Implementación y administración de sitio web en WordPress. Administración de red local. Soporte
 tecnico a usuarios. Desarrollo de aplicación Web usando el lenguage Java con Spring Boot en el
 back-end, front-end con Angular y base de datos SQL(MySql)
 
 - Desarrollador WEB - IOTEC Soluciones
-Marzo 2020 - Abril 2020
-Desarrollo de aplicaciones web usando la plataforma Angurlar y Nest JS
+
+  - Marzo 2020 - Abril 2020
+
+  - Desarrollo de aplicaciones web usando la plataforma Angurlar y Nest JS
 
 ## Educación
 - Universidad Cooperativa de Colombia
-Ingenieria de Sistemas - Septiembre 2020
+
+  - Ingenieria de Sistemas - Septiembre 2020
 
 - Servicio Nacional de Aprendizaje (SENA)
-Tecnólogo en ADSI - Septiembre 2017
+
+  - Tecnólogo en ADSI - Septiembre 2017
 
 <!--
 **nestoragredoyanten/nestoragredoyanten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
