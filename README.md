@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Ingeniero de Sistemas
 Profesional en Ingeniería de sistemas, con experiencia más de un año como desarrollador junior y
 soporte técnico, con experiencia en mantenimiento preventivo de computadores, instalación de
