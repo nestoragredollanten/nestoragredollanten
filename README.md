@@ -1,6 +1,5 @@
 ## Ingeniero de Sistemas
-Profesional en Ingeniería de sistemas, con experiencia más de un año como desarrollador junior y
-soporte técnico, con experiencia en mantenimiento preventivo de computadores, instalación de
+Profesional en Ingeniería de sistemas, con experiencia de 2 año como desarrollador, con experiencia en mantenimiento preventivo de computadores, instalación de
 red de datos cableada e inalámbrica, conocimientos en sistemas operativos Linux, Windows y Mac
 OS, manejo de los siguientes lenguaje de programación: JAVA con Spring Boot y Python con
 Django, conocimiento en Angular framework, gestión de bases de datos en el lenguaje SQL y
