@@ -1,13 +1,15 @@
 ## Ingeniero de Sistemas
-Profesional en Ingeniería de sistemas, con experiencia de 2 año como desarrollador, con experiencia en mantenimiento preventivo de computadores, instalación de
-red de datos cableada e inalámbrica, conocimientos en sistemas operativos Linux, Windows y Mac
-OS, manejo de los siguientes lenguaje de programación: JAVA con Spring Boot y Python con
-Django, conocimiento en Angular framework, gestión de bases de datos en el lenguaje SQL y
-experiencia en motores de Postgres, Oracle 12c, MySql, desarrollo de aplicaciones móviles para
-dispositivos Android, Manejo de la arquitectura API REST. Manejo de herramientas como: AWS,
-Docker, Jira, GIT, conocimiento en metodología de desarrollo ágil Scrum. Competencias como
-trabajo en equipo, tolerancia a la frustración, servicio al cliente y orientación a los resultados. Interés
-ocupacional como desarrollador de software.
+Profesional en Ingeniería de sistemas, con más de 3 años de experiencia como desarrollador, sobresaliendo en el manejo de
+sistemas operativos Linux, Windows y Mac OS. Mi experiencia abarca el desarrollo de aplicaciones
+utilizando Java con Spring Boot, el framework Angular, y la gestión de bases de datos SQL,
+incluyendo Postgres, Oracle 12c y MySQL, además de la creación de sólidas arquitecturas API REST.
+Mi conjunto de habilidades incluye conocimiento de herramientas como Docker para la gestión de
+contenedores, así como Maven y Gradle para la construcción y gestión de proyectos. Tengo
+experiencia en control de versiones con Git y en pruebas unitarias con JUnit y Mockito. Además,
+poseo competencias notables en trabajo en equipo, proactividad, adaptación al cambio, toma de
+decisiones y orientación a resultados. Estoy en busca de oportunidades que me permitan aplicar mi
+conocimiento y experiencia como desarrollador de software en proyectos desafiantes y en
+constante evolución.
 
 ## Skills:
 [![Intellij Idea](https://img.shields.io/badge/Intellij%20Idea-white?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=101010)]()
