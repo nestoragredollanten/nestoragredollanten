@@ -33,9 +33,16 @@ constante evolución.
 <!-- [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]() -->
 
 ## Experiencia laboral
+- Desarrollador Back-End - Neoris
+
+  - Junio 2022 - Actualmente
+
+  - Desarrollo de aplicaciones usando el lenguage Java con Spring Boot en el back-end y base de
+datos SQL(Oracle), Kubernetes, Docker, AWS(Lambda, S3, EKS)
+
 - Desarrollador Back-End - Personal Soft
 
-  - Febrero 2022 - Actualmente
+  - Febrero 2022 - Junio 2022
 
   - Desarrollo de aplicaciones usando el lenguage Java con Spring Boot en el back-end y base de
 datos NoSQL(Dynamodb)
