@@ -24,6 +24,7 @@ constante evolución.
 [![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-white?style=for-the-badge&logo=oracle&logoColor=white&labelColor=FF0000)]()
 </br>
 [![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=white&labelColor=blue)]()
+[![Kubernetes](https://img.shields.io/badge/kubernetes-white?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=blue)]()
 </br>
 [![Intellij Idea](https://img.shields.io/badge/Intellij%20Idea-white?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=101010)]()
 [![Web Strom](https://img.shields.io/badge/Web%20Storm-white?style=for-the-badge&logo=webstorm&logoColor=white&labelColor=101010)]()
