@@ -37,7 +37,7 @@ constante evolución.
   - Junio 2022 - Actualmente
 
   - Desarrollo de aplicaciones usando el lenguage Java con Spring Boot en el back-end y base de
-datos SQL(Oracle), Kubernetes, Docker, AWS(Lambda, S3, EKS)
+datos SQL(Oracle), Kubernetes, Docker, AWS(Lambda, S3, EKS, Cognito, System Manager, Secret Manager)
 
 - Desarrollador Back-End - Personal Soft
 
