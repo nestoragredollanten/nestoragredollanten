@@ -15,7 +15,6 @@ constante evolución.
 [![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=white&labelColor=FF0000)]()
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-white?style=for-the-badge&logo=spring&logoColor=white&labelColor=47A248)]()
 [![Angular](https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
