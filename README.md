@@ -28,7 +28,6 @@ constante evolución.
 [![Intellij Idea](https://img.shields.io/badge/Intellij%20Idea-white?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=101010)]()
 [![Web Strom](https://img.shields.io/badge/Web%20Storm-white?style=for-the-badge&logo=webstorm&logoColor=white&labelColor=101010)]()
 [![Data Grip](https://img.shields.io/badge/Data%20Grip-white?style=for-the-badge&logo=datagrip&logoColor=white&labelColor=101010)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 
 <!-- [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]() -->
 
