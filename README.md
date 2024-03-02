@@ -44,8 +44,7 @@ datos SQL(Oracle), Kubernetes, Docker, AWS(Lambda, S3, EKS)
 
   - Febrero 2022 - Junio 2022
 
-  - Desarrollo de aplicaciones usando el lenguage Java con Spring Boot en el back-end y base de
-datos NoSQL(Dynamodb)
+  - Desarrollo de aplicaciones usando el lenguage Java con Spring Boot en el back-end
 
 - Desarrollador Back-End - Progracol
   - Octubre 2021 - Febrero 2022
@@ -74,6 +73,10 @@ back-end, front-end con Angular y base de datos SQL(MySql)
   - Desarrollo de aplicaciones web usando la plataforma Angurlar y Nest JS
 
 ## Educación
+- Pontificia Universidad Javeriana
+
+  - Especializacion Ingenieria de Software - Enero 2025
+
 - Universidad Cooperativa de Colombia
 
   - Ingenieria de Sistemas - Septiembre 2020
