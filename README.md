@@ -1,5 +1,5 @@
 ## Ingeniero de Sistemas
-Profesional en Ingeniería de sistemas, con más de 3 años de experiencia como desarrollador, sobresaliendo en el manejo de
+Profesional en Ingeniería de sistemas, con más de 5 años de experiencia como desarrollador backend, sobresaliendo en el manejo de
 sistemas operativos Linux, Windows y Mac OS. Mi experiencia abarca el desarrollo de aplicaciones
 utilizando Java con Spring Boot, el framework Angular, y la gestión de bases de datos SQL,
 incluyendo Postgres, Oracle 12c y MySQL, además de la creación de sólidas arquitecturas API REST.
@@ -32,9 +32,16 @@ constante evolución.
 <!-- [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]() -->
 
 ## Experiencia laboral
+- Desarrollador Back-End - GFT Technologies
+
+  - Febrero 2025 - Actualmente
+
+  - Desarrollo de aplicaciones usando el lenguage Java con Spring Boot en el back-end y base de
+datos SQL(Oracle), Kubernetes, Docker, AWS(Lambda, S3, EKS, Cognito, System Manager, Secret Manager)
+
 - Desarrollador Back-End - Neoris
 
-  - Junio 2022 - Actualmente
+  - Junio 2022 - Noviembre 2024
 
   - Desarrollo de aplicaciones usando el lenguage Java con Spring Boot en el back-end y base de
 datos SQL(Oracle), Kubernetes, Docker, AWS(Lambda, S3, EKS, Cognito, System Manager, Secret Manager)
@@ -74,7 +81,7 @@ back-end, front-end con Angular y base de datos SQL(MySql)
 ## Educación
 - Pontificia Universidad Javeriana
 
-  - Especializacion Ingenieria de Software - Enero 2025
+  - Especializacion Ingenieria de Software - Marzo 2025
 
 - Universidad Cooperativa de Colombia
 
